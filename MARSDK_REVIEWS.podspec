@@ -13,7 +13,7 @@ s.author           = { '名字' => 'mailto:mz@martiangame.cn' } #作者信息：
 s.source           = { :git => 'https://github.com/martiangame6263/MARSDKS.git', :tag => "MARSDK_REVIEWS-#{s.version}"} # 这里输入邮箱如果你在开元中国申请的 git 账号,那么把你在开元中国创建的项目的 https 网址输入到这里,
 s.platform     = :ios
 s.platform     = :ios, "9.0" #iOS 支持的最低级别,这里最低9.0
-red_libraries =  'MARSDK_CROSSPUSHS/Classes/*.a'
+s.vendored_libraries  =  'MARSDK_CROSSPUSHS/Classes/*.a'
 
 s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
 end
