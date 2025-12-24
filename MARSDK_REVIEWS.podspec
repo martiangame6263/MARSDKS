@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name             = 'MARSDK_REVIEWS'
-  s.version          = '5.1.0'
+  s.version          = '5.1.1'
   s.summary          = '交叉推广插件'
   s.description  = <<-DESC
 火星人打包工具sdk 
