@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name             = 'MARSDK_GENGINE'
-  s.version          = '5.0.13'
+  s.version          = '5.0.12.1'
   s.summary          = '引力引擎统计插件'
   s.description  = <<-DESC
 火星人打包工具sdk 

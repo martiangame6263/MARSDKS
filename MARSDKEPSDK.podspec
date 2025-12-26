@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name             = 'MARSDKEPSDK'
-  s.version          = '5.6.2.2'
+  s.version          = '5.6.2.3'
   s.summary          = 'EPSDK渠道'
   s.description  = <<-DESC
 火星人打包工具sdk 

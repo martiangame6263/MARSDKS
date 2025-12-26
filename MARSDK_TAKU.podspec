@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name             = 'MARSDK_TAKU'
-  s.version          = '6.4.94'
+  s.version          = '6.4.93.1'
   s.summary          = 'topon广告插件'
   s.description  = <<-DESC
 火星人打包工具sdk 
