@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name             = 'MARSDK_UM'
-  s.version          = '7.4.7.1'
+  s.version          = '7.4.8.1'
   s.summary          = '友盟统计插件'
   s.description  = <<-DESC
 火星人打包工具sdk 
